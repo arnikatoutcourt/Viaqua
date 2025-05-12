@@ -1,2 +1,2 @@
 # Viaqua
-Viaqua is a personal and fully customisable web browser
+Viaqua is a simple implementation of blockchain.
